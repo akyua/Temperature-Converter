@@ -1,4 +1,4 @@
-<h1 align="center"> RPS </h1>
+<h1 align="center"> Weather </h1>
 
 <p align="center"> The Project is a conversor of the weather. </p>
 
