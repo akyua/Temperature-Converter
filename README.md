@@ -1,11 +1,17 @@
 <h1 align="center"> Temperature Converter </h1>
 
-<p align="center"> The Project is a conversor of the temperatures. </p>
+<p align="center"> The Project is a conversor of the temperatures. Focused on the two most used temperatures measures. (Celsius and Fahrenheit).</p>
+<p align="center"> Maybe in the future i'll add Kelvin measure. </p>
 
 <br>
 
 <h2 align="center"> Progress about the Project </h2>
-<p align="center"> 🚧 First Version Development 🚧 </p>
+<p align="center"> ✅ First Version Complete ✅ </p>
+
+<br>
+
+<h2 align="center"> See website on live </h2>
+<p align="center"> https://temperature-converter-akyua.vercel.app/ </p>
 
 <br>
 
@@ -22,6 +28,7 @@
 
 <div align="center">
 
-![weather](https://user-images.githubusercontent.com/75745796/225415883-e9ecac01-3980-4d40-b66e-e1c75f09f8bf.png)
+![converter](https://user-images.githubusercontent.com/75745796/230079558-155fa7b6-c06b-40c2-8f34-b20fc2d8221b.png)
+![converter2](https://user-images.githubusercontent.com/75745796/230079566-cd6adf51-fe80-4617-ab0d-8912147c7728.png)
 
 </div>
