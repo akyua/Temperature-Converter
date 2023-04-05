@@ -1,6 +1,6 @@
-<h1 align="center"> Weather </h1>
+<h1 align="center"> Temperature Converter </h1>
 
-<p align="center"> The Project is a conversor of the weather. </p>
+<p align="center"> The Project is a conversor of the temperatures. </p>
 
 <br>
 
@@ -11,6 +11,9 @@
 
 <h2 align="center"> Technologies Used </h2>
 
+<p align="center"> HTML </p>
+<p align="center"> CSS </p>
+<p align="center"> SASS / SCSS </p>
 <p align="center"> JavaScript </p>
 
 <br>
